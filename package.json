@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/chai-http": "^4.2.0",
+    "artillery": "^1.6.0-29",
+    "chai": "^4.2.0",
+    "guid": "0.0.12",
+    "mocha": "^6.2.0"
+  }
+}
